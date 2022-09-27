@@ -11,7 +11,7 @@
 About me
 ---
 
-I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have work experience in multiple project and colne project with team collaboration. I am eager to learn, I enjoy overcoming challenges, and I have a genuine interest in Software Development and making organisations successful.
+I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have work experience in multiple project and clone project with team collaboration. I am eager to learn, I enjoy overcoming challenges, and I have a genuine interest in Software Development and making organisations successful.
 
 I'm a Full Stack Developer. Strong knowledge in developing enterprise-level web applications and RESTful APIs using MicroServices, with demonstrable production-scale experience. Collaborate and communicate within distributed project teams to get desired outcomes. I am eager to be challenged in order to grow and further improve my IT skills.
 
@@ -31,16 +31,16 @@ Reach out to me
 
 Tech stack
 ---
-- Spring Book, Spring Framework
-- Moven 
+- Spring Boot, Spring Framework
+- Maven 
 - Hibernate
 - Core Java
 - JSON
-- RESTfull APIs
+- RESTfull API's
 - Swagger
 - Git
 - MySql, SQL query
-- HTML, CSS, Java Script
+- HTML, CSS, JavaScript
 
 <div>
 <img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/java-icon.svg"/>
@@ -56,7 +56,7 @@ Tech stack
 
 Deployed Links
 ---
-- [OnlineFoodOrder_WebService](https://github.com/roshan93190/Online_Food_Application)  :  collaborative project
+- [OnlineFoodOrder_WebService](https://github.com/roshan93190/Online_Food_Application)  :  Collaborative project
 - [LYST clone](https://tranquil-wisp-09a7b8.netlify.app/)  :  Individual project
 - [DEYGA clone](https://quiet-baklava-cb2ee6.netlify.app/)  :  Collaborative project
 - [KFC clone](https://frolicking-cascaron-189516.netlify.app/) : Collaborative project
